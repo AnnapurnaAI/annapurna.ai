@@ -1,0 +1,7 @@
+{
+  "name": "Annapurna.ai",
+  "description": "A smart nutrition and meal tracking app tailored for Indian diets, featuring AI-powered meal analysis, recipe generation, and portion suggestions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
